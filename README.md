@@ -1,4 +1,4 @@
-**ClinicChase: Chasing Appointments Made Easy**
+**Dynamic Web Application Development and Hosting using Php-MySql**
 
 ClinicChase is an innovative web application created using **PHP, HTML, CSS, and JavaScript**, powered by **Apache, MySQL, and XAMPP with PHPMyAdmin**.
 This user-centric platform revolutionizes the way patients access healthcare services.
